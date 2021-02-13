@@ -38,7 +38,7 @@ npm test
 
 ## Credits
 
-[createapp.dev](https://createapp.dev/)
-https://github.com/eirslett/frontend-maven-plugin
-https://dev.to/s2engineers/proxy-your-backend-api-to-the-parcel-development-server-5bh4
-https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot
+* [createapp.dev](https://createapp.dev/)  
+* https://github.com/eirslett/frontend-maven-plugin  
+* https://dev.to/s2engineers/proxy-your-backend-api-to-the-parcel-development-server-5bh4  
+* https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot  
